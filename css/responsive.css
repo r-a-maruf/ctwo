@@ -1,0 +1,253 @@
+@media(max-width: 1200px){
+	.product .title h1{
+		font-size: 24px;
+	}
+	.product .title h2 {
+    	font-size: 18px;
+	}
+	.information .whatplusidel h2 {
+    	font-size: 14px;
+ }
+	.information .whatplusidel ul {
+    	margin: 10px 0px;
+	}
+	.information .whatplusidel ul li {
+   		font-size: 14px;
+}
+	.information .advantage ul li {
+    	font-size: 14px;
+    }
+    
+
+	.product .media .but{
+		padding: 10px 6px;
+		font-size: 18px;
+	}
+	.feature h3 {
+    	font-size: 16px;
+    	padding-bottom: 10px;
+ }
+	.feature .innerR .box a{
+		height: calc( var(--height) / 1.5 );
+	}
+	.beforeAfter,
+	.beforeAfter img { 
+		height: calc( var(--height) / 1.5 );
+	}
+	.beforeAfter div:nth-child(3){
+	height: 67% !important;
+	}
+	.measurement h3 {
+    	font-size: 14px;
+ }
+	.measurement .method p {
+    	font-size: 14px;
+ }
+	.measurement .coverage h4 {
+    	font-size: 14px;
+ }
+	.measurement .coverage .tablelist ul li span {
+		font-size: 14px;
+	}
+	.measurement .coverage .shape1 a::before {
+		width: 20px;
+	}
+	.measurement .coverage .shape1 a {
+		padding: 5px 0px 5px 22px;
+	}
+	.measurement .calculator {
+    	padding: 20px 20px 0px;
+	}
+	.measurement .calculator .form-select {
+		font-size: 16px;
+		background-size: 10px 10px;
+	}
+	input[type="text"]::-webkit-input-placeholder{
+		font-size: 16px;
+	}
+
+	.measurement .method h4 {
+    	font-size: 12px;
+    	padding: 6px 8px;
+    }
+    .wrapper .wrapperInner h3 {
+    	font-size: 20px;
+ }
+	.wrapper .wrapperInner i {
+    	font-size: 55px;
+	}
+
+}
+@media (max-width: 992px){
+	.product .title h2 {
+    font-size: 22px;
+}
+	.information .whatplusidel ul li {
+   		font-size: 12px;
+}
+	.information .advantage ul li {
+    	font-size: 12px;
+    }
+
+.product .media {
+    margin-top: 50px;
+}
+.product .but {
+    font-size: 14px;
+    padding: 8px 3px;
+}
+.product .but i {
+    font-size: 28px;
+}
+.feature h3 {
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 5px;
+}
+.measurement h3 {
+    font-size: 13px;
+    padding: 0px 8px;
+}
+.measurement .method h4 {
+    margin-bottom: 0px;
+}
+.measurement .method p {
+    font-size: 12px;
+}
+.measurement .method p {
+    font-size: 13px;
+    margin: 5px 0px;
+}
+.measurement .coverage h4 {
+    font-size: 13px;
+}
+.measurement .coverage .tablelist ul li span {
+    font-size: 13px;
+}
+.measurement .coverage .shape1 a {
+    padding: 5px 0px 5px 16px;
+    font-size: 13px;
+}
+.measurement .coverage .shape1 a::before {
+    width: 13px;
+}
+.measurement .coverage .tablelist ul li:last-child {
+    margin-bottom: 10px;
+}
+.measurement .coverage p {
+    margin: 0px;
+}
+.measurement .calculator {
+    padding: 15px 15px 0px;
+}
+.measurement .calculator .form-select {
+    font-size: 14px;
+    background-size: 10px 10px;
+}
+
+input[type="text"]::-webkit-input-placeholder{
+		font-size: 16px;
+}
+.measurement .calculator .btn3 {
+	font-size: 16px;
+}
+
+.wrapper .wrapperInner h3 {
+    font-size: 15px;
+    margin-top: 10px;
+}
+.wrapper .wrapperInner i {
+    font-size: 40px;
+}
+
+
+
+
+
+}
+@media (max-width: 767px){
+	.product .title h1{
+		font-size: 20px;
+	}
+	.product .title h2 {
+    	font-size: 18px;
+	}
+.product {
+    padding: 15px 0px;
+}
+.productbox {
+    text-align: center;
+}
+.information {
+    padding: 15px 0px;
+}
+.information .advantage{
+	margin-top: 20px;
+}
+.information .whatplusidel{
+	margin-top: 20px;
+}
+
+
+.beforeAfter,
+	.beforeAfter img { 
+		height: calc( var(--height) / 1.8 );
+	}
+	.beforeAfter div:nth-child(3){
+	height: 55.5% !important;
+	}
+
+.feature h3 {
+    text-align: center;
+}
+.feature span {
+	display: none;
+}
+.measurement {
+    padding: 15px 0px;
+}
+.measurement .method p {
+    font-size: 13px;
+}
+.measurement h3 {
+    font-size: 14px;
+    padding: 0px 8px;
+}
+.measurement .method .shape1 {
+    margin-bottom: 20px;
+}
+.measurement .coverage p {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.measurement .coverage .shape1 a {
+    padding: 10px 0px 10px 25px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.measurement .coverage .shape1 a::before {
+		width: 20px;
+	}
+.measurement .calculator .form-select {
+    font-size: 16px;
+    background-size: 19px 14px;
+}
+.measurement .calculator .btn3 {
+    font-size: 20px;
+}
+
+.wrapper .wrapperInner {
+	border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 576px){}
